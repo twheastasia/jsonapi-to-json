@@ -4,6 +4,7 @@
 	"main": "index.html",
 	"version": "0.0.1",
 	"logo": "logo.png",
+  "author": "twh_eastasia",
 	"features": [
 		{
 		  "code": "jsonapi",
