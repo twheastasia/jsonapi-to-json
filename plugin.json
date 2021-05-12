@@ -1,0 +1,14 @@
+{
+	"pluginName": "JsonApi2Json",
+	"description": "把 json api 格式转化成普通 json 格式",
+	"main": "index.html",
+	"version": "0.0.1",
+	"logo": "logo.png",
+	"features": [
+		{
+		  "code": "jsonapi",
+		  "explain": "JsonApi2Json",
+			"cmds":["json", "jsonapi", "jsonapi2json"]
+		}
+	]
+}
